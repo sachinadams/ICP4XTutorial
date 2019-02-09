@@ -69,7 +69,7 @@ $  ./load_samples.sh -t banking
  
 
 # Learn more
-
+* **IBM ICP4D Infocenter Tutorials**:  (https://www.ibm.com/support/knowledgecenter/SSQNUZ_1.2.0/com.ibm.icpdata.doc/zen/tutorials/banking/ovu.html)
 * **Data Analytics Code Patterns**: Enjoyed this Code Pattern? Check out our other [Data Analytics Code Patterns](https://developer.ibm.com/code/technologies/data-science/)
 * **AI and Data Code Pattern Playlist**: Bookmark our [playlist](https://www.youtube.com/playlist?list=PLzUbsvIyrNfknNewObx5N7uGZ5FKH0Fde) with all of our Code Pattern videos
 * **Watson Studio**: Master the art of data science with IBM's [Watson Studio](https://datascience.ibm.com/)
